@@ -1,8 +1,8 @@
 Listado de responsabilidades:
 
-    Info
-    Display
-    Actions
-        Action
-    Keyboard
-        Key
+    Info >>> Mostrar informacion de la llamada
+    Display >>> mostrar numero de telefono
+    Actions >>>
+        Action >>>
+    Keyboard >>>
+        Key >>> guardar un dato
