@@ -1,8 +1,8 @@
 Listado de responsabilidades:
 
-    Info >>> Mostrar informacion de la llamada
-    Display >>> mostrar numero de telefono
-    Actions >>>
-        Action >>>
-    Keyboard >>>
-        Key >>> guardar un dato
+    Info >>> Efecto secundario al cambiar el estado
+    Display >>> mostrar estado  (número de telefono)
+    Actions >>> Muestra botones colgar y llamar
+        Action >>> realiza la acción de un boton al clickar
+    Keyboard >>> Muestra el conjunto de teclas
+        Key >>> guardar un dato en el estado
