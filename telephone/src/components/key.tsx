@@ -1,3 +1,9 @@
-export function Key() {
-    return <button className="key">11</button>;
+export function Key({ item }: { item: string }) {
+    return (
+        <>
+            <button className={item === 'delete' ? 'key big' : 'key'}>
+                {item}
+            </button>
+        </>
+    );
 }
